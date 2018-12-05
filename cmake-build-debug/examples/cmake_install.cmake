@@ -1,4 +1,4 @@
-# Install script for directory: /home/yft/AnShuai/github/MATH/examples
+# Install script for directory: /home/zhuhui/zhuhui/MATH/examples
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,11 +39,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/yft/AnShuai/github/MATH/cmake-build-debug/examples/Geometry/cmake_install.cmake")
-  include("/home/yft/AnShuai/github/MATH/cmake-build-debug/examples/Graph/cmake_install.cmake")
-  include("/home/yft/AnShuai/github/MATH/cmake-build-debug/examples/Matrix/cmake_install.cmake")
-  include("/home/yft/AnShuai/github/MATH/cmake-build-debug/examples/Optimization/cmake_install.cmake")
-  include("/home/yft/AnShuai/github/MATH/cmake-build-debug/examples/Probability/cmake_install.cmake")
+  include("/home/zhuhui/zhuhui/MATH/cmake-build-debug/examples/Geometry/cmake_install.cmake")
+  include("/home/zhuhui/zhuhui/MATH/cmake-build-debug/examples/Graph/cmake_install.cmake")
+  include("/home/zhuhui/zhuhui/MATH/cmake-build-debug/examples/Matrix/cmake_install.cmake")
+  include("/home/zhuhui/zhuhui/MATH/cmake-build-debug/examples/Optimization/cmake_install.cmake")
+  include("/home/zhuhui/zhuhui/MATH/cmake-build-debug/examples/Probability/cmake_install.cmake")
 
 endif()
 

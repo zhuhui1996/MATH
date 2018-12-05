@@ -187,13 +187,13 @@ public:
 
 
 
-MATRIX_END
+//MATRIX_END
 
 #endif //__MATRIX_H__
 
 
 
-MATRIX_BEGIN
+//MATRIX_BEGIN
 
     template <typename T>
     Matrix<T>::Matrix()
